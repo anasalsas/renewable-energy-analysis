@@ -43,6 +43,25 @@ You can access it here: [Global Renewable Energy and Indicators Dataset](https:/
 
 ## 🔍 **Key Research Questions**
 
+- What types of renewable energy exist in each country?
+
+# Energy Types by Country
+
+| Country  | Energy Type                                                       | Num of Energy Types |
+|----------|-------------------------------------------------------------------|----------------------|
+| Australia| [Geothermal, Hydro, Solar, Biomass, Wind]                         | 5                    |
+| Brazil   | [Geothermal, Solar, Wind, Hydro, Biomass]                         | 5                    |
+| Canada   | [Biomass, Wind, Geothermal, Solar, Hydro]                         | 5                    |
+| China    | [Solar, Biomass, Wind, Geothermal, Hydro]                         | 5                    |
+| France   | [Biomass, Solar, Geothermal, Hydro, Wind]                         | 5                    |
+| Germany  | [Wind, Biomass, Geothermal, Solar, Hydro]                         | 5                    |
+| India    | [Wind, Hydro, Solar, Biomass, Geothermal]                         | 5                    |
+| Japan    | [Biomass, Solar, Wind, Hydro, Geothermal]                         | 5                    |
+| Russia   | [Solar, Hydro, Biomass, Wind, Geothermal]                         | 5                    |
+| USA      | [Solar, Wind, Hydro, Biomass, Geothermal]                         | 5                    |
+
+It’s no surprise that the same energy types appear frequently since renewable energies are available across all countries, regardless of dependency, as it relates to nature’s availability.
+
 ⚡ **Renewable Energy Sources & Capacity**
 - What types of renewable energy are used in each country?
 - What is the average installed capacity per country?
