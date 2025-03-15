@@ -11,8 +11,19 @@ Global agreements, such as the **Paris Agreement** represent a collective commit
 
 To answer these questions and better understand this transition, I analyzed **renewable energy data from the past two decades**. Below, I share key insights that reveal how far we’ve come and where we’re heading in the pursuit of a cleaner future.
 
+## Table of Contents
+- [Objective](#objective)
+- [Dataset Overview](#dataset-overview)
+- [Technologies Used](#technologies-used)
+- [Key Research Questions](#key-research-questions)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Visualizations](#visualizations)
+- [Main Conclusions](#main-conclusions)
+- [Next Steps](#next-steps)
+- [Contact](#contact)
 
-## 📌 **Objective**
+
+## Objective
 This project aims to analyze **publicly available renewable energy data** to uncover  insights on:
 - Employment in the renewable energy sector;
 - Investiments in clean energy;
