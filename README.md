@@ -31,7 +31,8 @@ Key Variables:
 - **Investments (USD)**: Investment in renewable energy in USD
 - **CO2 Emissions**: CO₂ emissions in metric tons
 
-📥 **Data Source:** This dataset was obtained from Kaggle. You can access it here: [Global Renewable Energy and Indicators Dataset](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data).
+📥 **Data Source:** This dataset was obtained from Kaggle. 
+You can access it here: [Global Renewable Energy and Indicators Dataset](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data).
 
 
 ## 🛠 **Technologies Used**
