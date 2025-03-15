@@ -22,7 +22,7 @@ Variables Included:
 
 Python 🐍 (Pandas, NumPy, Matplotlib, Plotly)
 Jupyter Notebook 📓
-Git/GitHub (se estiveres a partilhar no GitHub)
+Git/GitHub 
 
 ## 📊 **Exploratory Data Analysis (EDA)**
 
