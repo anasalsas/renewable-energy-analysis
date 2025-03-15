@@ -69,6 +69,7 @@ You can access it here: [Global Renewable Energy and Indicators Dataset](https:/
 
 ![Investment Trends](https://github.com/anasalsas/renewable-energy-analysis/blob/main/investment_trends.png)
 
+![CO₂ Emissions by Year and Country](https://github.com/anasalsas/renewable-energy-analysis/blob/main/CO2_Emissions_Year_Country.png)
 
 
 ## 📌 **Main Conclusions:**
