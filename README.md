@@ -37,9 +37,9 @@ You can access it here: [Global Renewable Energy and Indicators Dataset](https:/
 
 ## 🛠 **Technologies Used**
 
-- Python (Pandas, NumPy, Matplotlib, Plotly)
-- Jupyter Notebook
-- Git/GitHub 
+- Data Cleaning: Pandas, NumPy
+- Data Visualization: Matplotlib, Plotly
+- Version Control: Git/GitHub
 
 ## 🔍 **Key Research Questions**
 
