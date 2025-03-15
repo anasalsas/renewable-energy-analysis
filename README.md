@@ -1,4 +1,4 @@
-# 📊 **Renewable Energy Data Analysis**
+# **Renewable Energy Data Analysis**
 
 In recent years, we have witnessed a revolution in the energy sector. The climate crisis and the need for energy independence have driven countries to invest more and more in renewable energy. The goal? To **reduce CO₂ emissions, transition away from fossil fuels, and secure a sustainable future**.
 
