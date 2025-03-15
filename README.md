@@ -64,7 +64,7 @@ You can access it here: [Global Renewable Energy and Indicators Dataset](https:/
 - Time-series analysis to identify long-term trends
 
 ## 📈 **Visualizations**
-![Top 10 Countries by Average Installed Capacity](images/installed_capacity.png)
+![Top 10 Countries by Installed Capacity](images/installed_capacity.png)
 (Graph will be displayed here)
 
 ## 📌 **Next Steps**
