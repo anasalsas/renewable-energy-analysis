@@ -5,7 +5,6 @@ This project aims to analyze publicly available renewable energy data to uncover
 
 
 ## 📂 **Dataset Description**
-Aqui podes descrever o que o dataset contém:
 
 Time Range: 2000 - 2023
 
