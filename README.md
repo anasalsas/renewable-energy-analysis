@@ -20,7 +20,7 @@ To answer these questions and better understand this transition, I analyzed **re
 - [Visualizations](#visualizations)
 - [Main Conclusions](#main-conclusions)
 - [Next Steps](#next-steps)
-- [Contact me](#contact)
+- [Contact](#contact)
 
 
 ## Objective
@@ -46,13 +46,13 @@ Key Variables:
 You can access it here: [Global Renewable Energy and Indicators Dataset](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data).
 
 
-##Technologies Used
+## Technologies Used
 
 - Data Cleaning: Pandas, NumPy
 - Data Visualization: Matplotlib, Plotly
 - Version Control: Git/GitHub
 
-##Key Research Questions
+## Key Research Questions
 
 - What types of renewable energy exist in each country?
 
@@ -142,19 +142,26 @@ It’s no surprise that the same energy sources appear frequently, as renewables
 
 ## Visualizations
 
-![Installed Capacity](https://github.com/anasalsas/renewable-energy-analysis/blob/main/installed_capacity.png)
+### Installed Capacity
+![Installed Capacity](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/installed_capacity.png)
 
-![Investment Trends](https://github.com/anasalsas/renewable-energy-analysis/blob/main/investment_trends.png)
+### Investment Trends
+![Investment Trends](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/investment_trends.png)
 
-![Average Renewable Energy Jobs by Country and Energy Type](https://github.com/anasalsas/renewable-energy-analysis/blob/main/jobs_by_RW_by_Country.png)
+### Average Renewable Energy Jobs by Country and Energy Type
+![Average Renewable Energy Jobs by Country and Energy Type](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/jobs_by_RW_by_Country.png)
 
-![CO₂ Emissions by Year and Country](https://github.com/anasalsas/renewable-energy-analysis/blob/main/CO2_Emissions_Year_Country.png)
+### CO₂ Emissions by Year and Country
+![CO₂ Emissions by Year and Country](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/CO2_Emissions_Year_Country.png)
 
-![Average Proportion of Energy from Renewables (%)](https://github.com/anasalsas/renewable-energy-analysis/blob/main/Avg_Proportion_RE.png)
+### Average Proportion of Energy from Renewables (%)
+![Average Proportion of Energy from Renewables (%)](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/Avg_Proportion_RE.png)
 
-![Average Wind Speed by Country](https://github.com/anasalsas/renewable-energy-analysis/blob/main/wind.png)
+### Wind Speed {#wind}
+![Average Wind Speed by Country](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/wind.png)
 
-![Average Solar Irradiance by Country](https://github.com/anasalsas/renewable-energy-analysis/blob/main/solar_irradiance.png)
+### Solar Irradiance {#solar-irradiance}
+![Average Solar Irradiance by Country](https://raw.githubusercontent.com/anasalsas/renewable-energy-analysis/main/solar_irradiance.png)
 
 
 ## Main Conclusions:
@@ -199,6 +206,6 @@ The dataset shows that Australia has an average renewable energy proportion of 5
 - Interactive Dashboard - Create an interactive version using a data visualization tool to make data exploration easier
 
 
-## Contact me
+## Contact
 
 🔗 LinkedIn: [Ana Salsas](https://www.linkedin.com/in/anasalsas/)  
