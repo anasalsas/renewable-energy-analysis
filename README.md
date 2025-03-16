@@ -184,7 +184,6 @@ Beyond just looking at jobs per country, I wanted to dive deeper—where exactly
 - Austrália: Geothermal (587,615), Biomass (519,512), Hydro (511 043)
 - Canadá: Wind (569 573), Geothermal (556 750), Hydro (515 506)
 
-
 - Is the energy transition truly cutting CO₂ emissions?
 Interestingly, Australia records the highest average **CO₂ emissions** (0.53 Mt), while India has the lowest (0.45 Mt). Considering that India is both a leading investor in renewables and a top country in installed capacity, this suggests that a strong commitment to clean energy contributes to lower emissions.
 
@@ -326,17 +325,17 @@ Based on this data, the answer seems to be yes. Countries that heavily invest in
   </tr>
 </table>
 
-The table above allows us to analyze how CO₂ emissions have evolved between 2000 and 2023 across different countries. Comparing these changes can provide insights into the progress or setbacks in emission reduction policies. These variations, reflected in the rise or fall of CO₂ emissions over the years, may indicate the effectiveness of policies implemented in each country to mitigate or halt climate change.
+The table above allows us to **analyze how CO₂ emissions have evolved between 2000 and 2023 across different countries**. Comparing these changes can provide insights into the progress or setbacks in emission reduction policies. **These variations, reflected in the rise or fall of CO₂ emissions over the years, may indicate the effectiveness of policies implemented in each country to mitigate or halt climate change**.
 
-Countries with significant emission reductions, such as Germany and India, can serve as models for policies and investments in greener technologies. This can also help direct investments toward regions making the most significant progress.
+**Countries with significant emission reductions, such as Germany and India, can serve as models for policies and investments in greener technologies. This can also help direct investments toward regions making the most significant progress.**
 
-These data also help assess progress toward Global Climate Goals, such as those set by the Paris Agreement, which aims to limit global warming. By analyzing the countries with the highest emission growth, it is possible to evaluate where efforts need to be intensified.
+These data also help assess progress toward **Global Climate Goals**, such as those set by the **Paris Agreement**, which aims to **limit global warming**. By analyzing the countries with the highest emission growth, it is possible to evaluate where efforts need to be intensified.
 
-Sharp declines in some countries: Germany (-81.75%), India (-76.26%), and Canada (-33.03%) have significantly reduced emissions between 2000 and 2023.
-Germany and France maintain a downward trend, which may be linked to effective environmental policies.
-Fluctuations in Brazil and Russia: Both have reduced emissions in the long term but experienced peaks and drops, possibly indicating instability in their energy models.
-Unexpected increases in Japan and the USA: Japan (+8644.28%) and the USA (+6706.65%) have shown massive increases, which seem to be errors or indications of outlier data. The extreme percentage values (such as Japan and the USA) suggest possible data inconsistencies or drastic variations due to specific factors.
-China alternates between growth and reduction, possibly due to its energy mix and industrialization.
+- Sharp declines in some countries: Germany (-81.75%), India (-76.26%), and Canada (-33.03%) have significantly reduced emissions between 2000 and 2023.
+- **Germany and France maintain a downward trend, which may be linked to effective environmental policies.**
+- **Fluctuations in Brazil and Russia**: Both have reduced emissions in the long term but experienced peaks and drops, possibly indicating instability in their energy models.
+- **Unexpected increases in Japan and the USA**: Japan (+8644.28%) and the USA (+6706.65%) have shown massive increases, which seem to be errors or indications of outlier data. The extreme percentage values (such as Japan and the USA) suggest possible data inconsistencies or drastic variations due to specific factors.
+- **China alternates between growth and reduction, possibly due to its energy mix and industrialization.**
 
 
 - How is the proportion of energy from renewable energy calculated in this dataset?
