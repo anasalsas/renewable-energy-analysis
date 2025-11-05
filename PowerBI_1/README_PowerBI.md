@@ -17,13 +17,13 @@ Kaggle: Global Renewable Energy and Indicators Dataset
 
 Dataset: ~2,500 rows, 50+ columns covering:
 
-Country-level renewable energy production
+- Country-level renewable energy production
 
-Socio-economic & environmental indicators
+- Socio-economic & environmental indicators
 
-Human capital and innovation metrics
+- Human capital and innovation metrics
 
-Data Import from Kaggle -  .CSV file
+**Data Import from Kaggle -  .CSV file**
 
 ## 2. Data Cleaning/Transformation (in Power Query)
 
@@ -61,11 +61,11 @@ Stores numeric measures: Production (GWh), Installed Capacity (MW), Investments,
 
 Rationale:
 
-1-to-many relationships enable proper aggregation and filtering
+- 1-to-many relationships enable proper aggregation and filtering
 
-Prevents duplicate counting
+- Prevents duplicate counting
 
-Supports accurate DAX calculations
+- Supports accurate DAX calculations
 
 ![Star Shema](Images/Star%20Shema.png)
 
@@ -78,11 +78,12 @@ All KPIs created as **explicit measures** in FactRenewables.
 **Page 1: Global Overview**
 
 Title: **Global Renewable Energy Dashboard**
+
 Slicers: Country, Energy Type, Year
 
 KPIs: Total Production, Installed Capacity, Total Investment, Investment per Capita, Avg CO2, CO2 per GWh, Jobs per MW
 
-Charts:
+**Charts:**
 
 1. Line Chart: Avg Energy Production vs Consumption per Year
 
@@ -92,7 +93,7 @@ Charts:
 
 **Page 2: Energy Performance**
 
-Charts:
+**Charts:**
 
 1. Top Renewable Energy Sources by Production (Bar Chart)
 
@@ -102,11 +103,11 @@ Charts:
 
 4. Investment vs Production Efficiency (Scatter Plot)
 
-![Star Shema](/Images/Page2_Energy%20Performance.png)
+![Star Shema](Images/Page2_Energy%20Performance.png)
 
 **Page 3: Renewable Energy Impact & External Factors**
 
-Charts:
+**Charts:**
 
 1. Climate Trends & Natural Events (Combo Chart: Temp Line / Natural Disasters Bars)
 
@@ -118,11 +119,11 @@ Charts:
 
 ## 5. Insights & Highlights
 
-Trends: Increasing solar & wind production worldwide
+- Trends: Increasing solar & wind production worldwide
 
-Human capital: Development lags in some regions despite high investments
+- Human capital: Development lags in some regions despite high investments
 
-CO2 per GWh: Highlights cleaner energy producers
+- CO2 per GWh: Highlights cleaner energy producers
 
 ## 6. Future Improvements
 
@@ -152,11 +153,11 @@ CO2 per GWh: Highlights cleaner energy producers
 
 Example:
 
-Page 1: Global Overview – slicers + KPIs + line & bar charts
+- Page 1: Global Overview – slicers + KPIs + line & bar charts
 
-Page 2: Energy Performance – top energy sources, trends, CO2 efficiency, scatter plot
+- Page 2: Energy Performance – top energy sources, trends, CO2 efficiency, scatter plot
 
-Page 3: Impact & External Factors – climate trends, electricity prices, human capital
+- Page 3: Impact & External Factors – climate trends, electricity prices, human capital
 
 ![Star Shema](Images/Page1_Global%20Overview.png)
 ![Star Shema](Images/Page2_Energy%20Performance.png)
@@ -176,6 +177,6 @@ Page 3: Impact & External Factors – climate trends, electricity prices, human 
 
 - Understood how to design dashboards for insights rather than just showing totals (e.g., CO2 per GWh, jobs per MW, investment efficiency).
 
-
 - Gained experience in documenting a project thoroughly for a GitHub portfolio, including workflow, measures, KPIs, and dashboard objectives.
+
 
