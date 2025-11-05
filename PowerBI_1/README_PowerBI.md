@@ -15,7 +15,7 @@ Support strategic decisions with actionable insights.
 
 Kaggle: Global Renewable Energy and Indicators Dataset
 
-Dataset: ~2,000 rows, 150+ columns covering:
+Dataset: ~2,500 rows, 50+ columns covering:
 
 Country-level renewable energy production
 
@@ -178,3 +178,4 @@ Page 3: Impact & External Factors – climate trends, electricity prices, human 
 
 
 - Gained experience in documenting a project thoroughly for a GitHub portfolio, including workflow, measures, KPIs, and dashboard objectives.
+
