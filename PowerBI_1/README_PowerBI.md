@@ -35,7 +35,7 @@ Data Import from Kaggle -  .CSV file
 
 - Remove or consolidate duplicates if any (in this dataset there are none)
 
-![Star Shema](/Images/Cleaning%20Data.png)
+![Star Shema](Images/Cleaning%20Data.png)
 
 ## 3. Data Modeling (Star Schema)
 
@@ -67,7 +67,7 @@ Prevents duplicate counting
 
 Supports accurate DAX calculations
 
-![Star Shema](/Images/Star%20Shema.png)
+![Star Shema](Images/Star%20Shema.png)
 
 ## 3. DAX Measures & KPIs
 
@@ -88,7 +88,7 @@ Charts:
 
 2. Bar Chart (%): Total Energy Exports vs Imports per Country
 
-![Star Shema](/Images/Page1_Global%20Overview.png)
+![Star Shema](Images/Page1_Global%20Overview.png)
 
 **Page 2: Energy Performance**
 
@@ -114,7 +114,7 @@ Charts:
 
 3. Electricity Prices Over Time (Line)
 
-![Star Shema](/Images/Page3_RWE_Impact.png)
+![Star Shema](Images/Page3_RWE_Impact.png)
 
 ## 5. Insights & Highlights
 
@@ -158,9 +158,9 @@ Page 2: Energy Performance – top energy sources, trends, CO2 efficiency, scatt
 
 Page 3: Impact & External Factors – climate trends, electricity prices, human capital
 
-![Star Shema](/Images/Page1_Global%20Overview.png)
-![Star Shema](/Images/Page2_Energy%20Performance.png)
-![Star Shema](/Images/Page3_RWE_Impact.png)
+![Star Shema](Images/Page1_Global%20Overview.png)
+![Star Shema](Images/Page2_Energy%20Performance.png)
+![Star Shema](Images/Page3_RWE_Impact.png)
 
 ## 9. Lessons Learned 
 
@@ -175,5 +175,6 @@ Page 3: Impact & External Factors – climate trends, electricity prices, human 
 - Learned to validate data integrity and relationships to prevent misleading visuals.
 
 - Understood how to design dashboards for insights rather than just showing totals (e.g., CO2 per GWh, jobs per MW, investment efficiency).
+
 
 - Gained experience in documenting a project thoroughly for a GitHub portfolio, including workflow, measures, KPIs, and dashboard objectives.
