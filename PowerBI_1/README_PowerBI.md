@@ -180,3 +180,5 @@ Example:
 - Gained experience in documenting a project thoroughly for a GitHub portfolio, including workflow, measures, KPIs, and dashboard objectives.
 
 
+Note: The dataset was also explored in Python independently for statistical insights.
+In a real-world pipeline, the data cleaning and transformation would ideally be integrated before Power BI import.
