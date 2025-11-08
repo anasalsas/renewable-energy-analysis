@@ -114,5 +114,5 @@ Example visuals:
 3. **CO₂ & Energy Efficiency** – Bubble chart for energy efficiency, line chart for CO₂ and methane levels
 
 ![Star Shema](/images\KPIs_Dashboard.png) 
-![Star Shema](/images\Dashboard_1.png.png)
+![Star Shema](/images\Dashboard_1.png)
 ![Star Shema](/images\Dashboard_2.png)
